@@ -143,3 +143,4 @@ class App {
 }
 
 const app = new App();
+console.log('Added new features');
